@@ -122,10 +122,10 @@ def education():
     st.header("Education")
     st.write("""
     ### Certification in Data Science
-    - Ducat India Institute,Noida, - 2024
+    - Ducat India Institute,Noida,   (2024-2025)
 
     ### Bachelor of Science(B.sc in cs)
-    - Mahatma Gandhi Kashi Vidyapith,Varanasi, - 2022
+    - Mahatma Gandhi Kashi Vidyapith,Varanasi, (2019-2023)
     """)
 
 # Contact Section
