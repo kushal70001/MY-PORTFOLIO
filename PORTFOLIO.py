@@ -121,14 +121,14 @@ def projects():
         },
         {
             "title": "Object Detection Using YOLO & Deep Learning-",
-            "description:"Excited to share my latest project on Real-Time Object Detection using the YOLO (You Only Look Once) model in OpenCV & Deep Learning ",
+            "description":"Excited to share my latest project on Real-Time Object Detection using the YOLO (You Only Look Once) model in OpenCV & Deep Learning ",
             
             "link": "https://github.com/kushal70001/DL-3--Object-Detection-using-YOLO-OpenCV.git"
             
         },
         {
             "title": "Feature Extraction Using Autoencoder in Deep Learning-",
-            "description:"In machine learning, feature extraction plays a crucial role in reducing dimensionality while maintaining essential information. I recently worked on Autoencoders, a powerful neural network-based unsupervised learning technique for efficient feature extraction",
+            "description":"In machine learning, feature extraction plays a crucial role in reducing dimensionality while maintaining essential information. I recently worked on Autoencoders, a powerful neural network-based unsupervised learning technique for efficient feature extraction",
             
             "link": "https://github.com/kushal70001/DL-4--Feature-Extraction-using-Autoencoder.git"
             
