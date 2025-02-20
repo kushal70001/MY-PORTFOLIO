@@ -71,13 +71,13 @@ def skills():
     - Pandas, NumPy, Scikit-learn(sklearn)
 
     ### Visualization
-    - Matplotlib, Seaborn, Power BI
+    - Matplotlib, Seaborn, Power BI,Ad.Excel
 
     ### Machine Learning
     - Regression, Classification, Clustering, Deep Learning
 
     ### Tools & Technologies
-    - Jupyter notebook,Github
+    - Jupyter notebook,Github,google colaboratory,IDLE
     """)
 
 # Projects Section
@@ -86,17 +86,17 @@ def projects():
     st.header(">>>>>Machine Learning Projects<<<<<")
     project_list = [
         {
-            "title": "Sentiment Analysis",
+            "title": "Sentiment Analysis-",
             "description": "This code is a Sentiment Analysis Web Application built using Streamlit and TextBlob. It analyzes the sentiment of user-provided text and classifies it as positive, negative, or neutral. The application displays appropriate images and messages based on the sentiment detected.",
             "link": "https://github.com/kushal70001/Sentiment.git"
         },
         {
-            "title": "face-detection/face-recognition-system",
+            "title": "face-detection/face-recognition-system-",
             "description": "A Face Recognition System built using Python and OpenCV, designed for real-time face detection, recognition, and attendance management. This project demonstrates the use of computer vision techniques to recognize faces and automate attendance processes efficiently.",
             "link": "https://github.com/kushal70001/face-detection-face-recognition-system.git"
         },
         {
-            "title": "content-based-movie-recommendation-system",
+            "title": "content-based-movie-recommendation-system-",
             "description": "content-based movie recommendation system that uses TF-IDF Vectorization and Nearest Neighbors to recommend movies based on the description similarity.",
             "link": "https://github.com/kushal70001/content-based-movie-recommendation-system.git"
         },
@@ -105,9 +105,34 @@ def projects():
             "description": "This code implements a Collaborative Filtering movie recommendation system based on user-user similarity using Nearest Neighbors. The system recommends movies for a specific user (in this case, user ID 122) based on the ratings provided by similar users",
             
             "link": "https://github.com/kushal70001/Collaborative-Filtering-movie-recommendation-system-.git"
-        }
-
-
+        },
+        {
+            "title": "Handwritten Digit Recognition Using Deep Learning-",
+            "description": "Excited to share my mini-project on Handwritten Digit Recognition, where I built a deep learning model using TensorFlow & Keras to classify handwritten digits (0-9) with the MNIST dataset. ",
+            
+            "link": "https://github.com/kushal70001/DL-1--handwritten-digit-recognition-using-the-MNIST-dataset.git"
+        },
+        {
+            "title": " Gender Classification Using CNN & Deep Learning-",
+            "description": "Excited to share my latest project on Gender Classification using Convolutional Neural Networks (CNNs) in TensorFlow/Keras! ",
+            
+            "link": "https://github.com/kushal70001/DL-2--Gender-Classification-using-CNN.git"
+            
+        },
+        {
+            "title": "Object Detection Using YOLO & Deep Learning-",
+            "description:"Excited to share my latest project on Real-Time Object Detection using the YOLO (You Only Look Once) model in OpenCV & Deep Learning ",
+            
+            "link": "https://github.com/kushal70001/DL-3--Object-Detection-using-YOLO-OpenCV.git"
+            
+        },
+        {
+            "title": "Feature Extraction Using Autoencoder in Deep Learning-",
+            "description:"In machine learning, feature extraction plays a crucial role in reducing dimensionality while maintaining essential information. I recently worked on Autoencoders, a powerful neural network-based unsupervised learning technique for efficient feature extraction",
+            
+            "link": "https://github.com/kushal70001/DL-4--Feature-Extraction-using-Autoencoder.git"
+            
+        },
 
         
     ]
